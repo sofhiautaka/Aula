@@ -1,0 +1,58 @@
+.pai {
+    width: 700px;
+    height: 300px;
+
+    background-color:#aba7ab;
+    border: solid 2px #000;
+    border-radius: 30px;
+
+}
+
+.bloco {
+    width: 120px;
+    height: 120px;
+    border-radius: 60px;
+    margin-left: 10px;
+    margin-top: 10px;
+
+    background-color:black;
+}
+
+.usuario {
+    width: 105px;
+    height: 105px;
+    border-radius: 60px;
+    margin-top: 8px;
+    margin-left: 7px;
+}
+
+.titulo {
+    color: rgb(48, 42, 54);
+    font-family: monospace;
+    font-size: 30px;
+    margin-left: 20px;
+}
+
+.titulo01 {
+    color: rgb(48, 42, 54);
+    font-family: monospace;
+    font-size: 22px;
+    margin-left: 20px;
+}
+
+.titulo02{
+    font-family: monospace;
+    font-size: 22px;
+    margin-left: 220px;
+}
+.texto {
+    font-size: 25px;
+}
+
+.texto01 {
+    font-size: 22px;
+}
+
+.texto02 {
+    font-size: 20px;
+}
