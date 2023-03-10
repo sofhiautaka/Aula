@@ -1,0 +1,27 @@
+.pai {
+    background-color: beige;
+    width: 650px;
+    height: 250px;
+    border: solid 2px #000;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.caixa {
+    background-color: rgb(238, 33, 238);
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.titulo {
+    font-family: cursive;
+    margin-left: 5px;
+}
+
+.cor-padrao {
+    color: blueviolet;
+    font-size: 25px;
+}
